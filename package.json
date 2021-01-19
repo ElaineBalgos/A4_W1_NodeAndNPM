@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Hello from Node!\"",
-    "start": "nodemon app"
+    "start": "node app"
   },
   "repository": {
     "type": "git",
